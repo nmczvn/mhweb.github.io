@@ -53,7 +53,7 @@ box-shadow: 0px 0px 37px 9px rgba(0,0,0,0.75);
 #wrapper #content .game_wrapper .content_game a{
 	display: block;
 	margin-top:20px;
-	font-family:"Bell Gothic Std Light";
+	font-family:"BellGothicStd";
 	font-size:30px;
 	color:#000;
 	text-decoration:none;
@@ -80,7 +80,7 @@ box-shadow: 0px 0px 37px 9px rgba(0,0,0,0.75);
 	margin-left:130px;
 }
 #wrapper #content .paging a {
-	font-family: "Bell Gothic Std Light";
+	font-family: "BellGothicStd";
 	font-size: 18px;
 	text-decoration: none;
 	color: #06F;
