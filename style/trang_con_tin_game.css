@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper #content .gamenews_wrapper.clearfix .one_news a {
+	font-family: "Myriad Pro";
+	font-size:20px;
+	color: #69F;
+	font-stretch:condensed;
+	text-decoration:none;
+	
+}
+#wrapper #content .gamenews_wrapper.clearfix .one_news a:hover{
+	color:#33F;
+}
+#wrapper #content .gamenews_wrapper.clearfix .one_news {
+	width: 42%;
+	    text-align: left;
+		display:inline-block;
+		    margin: 2% 2%;
+			height:350px;
+			overflow:hidden;
+}
+
+#wrapper #content .gamenews_wrapper.clearfix .one_news p {
+	font-family: "Myriad Pro";
+	font-size: 18px;
+	color: #000;
+	font-stretch:condensed;
+	margin:0;
+
+}
+#wrapper #content .gamenews_wrapper.clearfix {
+	padding: 0 10%;
+	    text-align: center;
+}
+#wrapper #content .gamenews_wrapper.clearfix .one_news img {
+	width: 100%;
+}
+#wrapper #content .gamenews_wrapper.clearfix .one_news div {
+	margin-bottom: 20px;
+}
+#wrapper #content .more a {
+	font-family: "Myriad Pro";
+	font-size: 30px;
+	text-decoration: none;
+	color: #000;
+	background-color:#69F;
+	padding:20px;
+}
+#wrapper #content .more {
+	    height: inherit;
+    padding: 31px;
+    text-align: center;
+}
+#wrapper #content .more a:hover{
+	color:#FFF;
+	}

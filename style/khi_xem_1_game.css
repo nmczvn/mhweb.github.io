@@ -1,0 +1,117 @@
+@charset "utf-8";
+#wrapper #content {
+	background-image: url(../images/anh_game.png) !important;
+	background-repeat: no-repeat !important;
+	background-size:100% auto;
+	padding-top:20px !important;
+}
+#wrapper #content .nav  {
+	opacity:0.9;
+}
+#wrapper #content .ten_game span {
+	font-family: "Myriad Pro";
+	font-size: 48px;
+	font-weight: bold;
+	color: #FFF;
+	font-stretch:condensed;
+	border-bottom: 3px solid white;
+	padding: 0 40px;
+	text-shadow: 3px 4px 17px rgba(255, 255, 255, 0.89);
+}
+#wrapper #content .info_game {
+	text-align: center;
+    margin: 15px;
+	font-family: "Myriad Pro";
+	font-size: 18px;
+	color: #FFF;
+	font-stretch:condensed;	
+}
+#wrapper #content .info_img {
+	text-align: center;
+	
+}
+#wrapper #content .info_img img
+{
+	    margin-left: 0px !important;
+    margin-bottom: 100	px !important;
+	margin-top:70px;
+	}
+#wrapper #content .thongtin_game .nenthongtin_game span {
+	font-family: "Myriad Pro";
+	font-size: 24px;
+	color: #FFF;
+	z-index:2;
+}
+#wrapper #content .thongtin_game {
+	    padding: 20px 100px;
+}
+#wrapper #content .thongtin_game .nenthongtin_game {
+	    background: rgba(0, 0, 0, 0.5);
+	padding: 24px;
+	
+}
+#wrapper #content .nav span {
+	color: #FFF;
+}
+#wrapper #content .thongtin_game .nenthongtin_game .nen {
+	background-color: #333;
+}
+#wrapper #content .screenshot_logo {
+		   text-align:center;
+}
+#wrapper #content .screenshot_logo img {
+		    margin-left: 0px !important;
+    margin-bottom: 0px !important;
+	margin-top:30px;
+}
+#wrapper #content .anhgame {
+	background-image: url(../images/COD1.jpg);
+	background-repeat: no-repeat;
+		margin-top:60px;
+		margin-bottom:60px;
+
+}
+#wrapper #content .anhgame img {
+	
+		    margin-left: 0px !important;
+    margin-bottom: 	0px !important;
+	width:100%;
+}
+#wrapper #content .download img {
+			    margin-left: 0px !important;
+    margin-bottom: 	0px !important;
+	    width: 20%;
+
+}
+#wrapper #content .download {
+	text-align: center;
+
+}
+#wrapper #content .link_down a {
+	margin-left:0 !important;
+	text-decoration:none !important;
+	border-radius: 31px 77px 77px 77px;
+-moz-border-radius: 31px 77px 77px 77px;
+-webkit-border-radius: 31px 77px 77px 77px;
+border: 3px solid #acaae3;
+padding:15px;
+}
+#wrapper #content .link_down a:hover{
+	color:#FFF;
+	background-color:#69F;
+	}
+#wrapper #content .link_down {
+	text-align: center;
+	margin-bottom:100px;
+	margin-top: 10px;
+	
+}
+
+
+
+
+
+#wrapper #content .ten_game{
+	text-align:center;
+	    margin-top: 27px;
+}

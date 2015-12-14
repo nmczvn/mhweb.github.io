@@ -1,0 +1,49 @@
+@charset "utf-8";
+#wrapper #content .map {
+	text-align: center;
+    margin: 20px;
+	
+}
+#wrapper #content .title_hotro {
+	font-family: "Myriad Pro";
+	font-size: 30px;
+	color: #000;
+	font-stretch:condensed;
+	    margin-left: 207px;
+}
+#wrapper #content a {
+	font-family: "Myriad Pro";
+	font-size: 30px;
+	color: #09F;
+	text-decoration: underline;
+	font-stretch:condensed;
+	margin-left:220px;
+}
+#wrapper #content form table tr td label {
+	font-family: "Myriad Pro";
+	font-size: 30px;
+	color:#F30;
+}
+#wrapper #content form table tr td {
+	font-family: "Myriad Pro";
+	font-size: 24px;
+	color: #000;
+}
+#wrapper #content form table tr td input {
+	width:230px;
+	height:35px;
+	font-size:20px
+	}
+#wrapper #content form table tr td .noidung {
+	width:660px;
+	height:119px;
+	font-size:20px
+}
+#wrapper #content form table tr td textarea {
+	font-family: "Myriad Pro";
+	font-size: 20px;
+}
+#wrapper #content form {
+	margin: 25px 0;
+	margin-left:250px;
+}

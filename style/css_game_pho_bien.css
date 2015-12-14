@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper #content .nav{
+	background-color:#323331;
+	width:90%;
+	padding:7px;
+}
+#wrapper #content {
+	background-image: url(../images/bg_games.jpg);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+	padding-top:20px;
+}
+#wrapper #content .name span {
+	font-family: "Myriad Pro";
+	font-size: 60px;
+	color: #000;
+	font-stretch:condensed;
+	    margin-left: 131px;
+}
+#wrapper #content .name{
+	    padding-top: 30px;
+}
+#wrapper #content .game_wrapper{
+	    padding: 30px 137px;
+	
+}
+#wrapper #content .game_wrapper .content_game div {
+	width: 100%;
+	height: 200px;
+	overflow:hidden;
+-webkit-box-shadow: 0px 0px 37px 9px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 37px 9px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 37px 9px rgba(0,0,0,0.75);
+}
+#wrapper #content .game_wrapper .content_game div img {
+	width:100%;
+	-moz-transition: all 200ms ease-in-out;
+	-ms-transition: all 200ms ease-in-out;
+	-o-transition: all 200ms ease-in-out;
+	transition: all 200ms ease-in-out;
+}
+
+
+
+
+#wrapper #content .game_wrapper .content_game {
+	width:30%;
+	float:left;
+    text-align: center;
+	padding:1.66%;
+	}
+#wrapper #content .game_wrapper .content_game a{
+	display: block;
+	margin-top:20px;
+	font-family:"Bell Gothic Std Light";
+	font-size:30px;
+	color:#000;
+	text-decoration:none;
+	
+}
+
+#wrapper #content .game_wrapper .content_game:hover img{
+	transform: rotate(13deg) scale(1.219) skew(1deg) translate(0px);
+-webkit-transform: rotate(13deg) scale(1.219) skew(1deg) translate(0px);
+-moz-transform: rotate(13deg) scale(1.219) skew(1deg) translate(0px);
+-o-transform: rotate(13deg) scale(1.219) skew(1deg) translate(0px);
+-ms-transform: rotate(13deg) scale(1.219) skew(1deg) translate(0px);
+}
+
+#wrapper #content .game_wrapper .content_game a:hover{
+	color:#69F;	
+}
+
+#wrapper #content .nav span {
+	font-family: "Myriad Pro";
+	font-size: 24px;
+	font-stretch:condensed;
+	font-style:italic;
+	margin-left:130px;
+}
+#wrapper #content .paging a {
+	font-family: "Bell Gothic Std Light";
+	font-size: 18px;
+	text-decoration: none;
+	color: #06F;
+	border:2px solid #0CF;
+    padding: 9px 10px;
+	margin:5px;
+}
+#wrapper #content .paging a:hover{
+		background-color:#06F;
+				color:#FFF;
+
+	}
+#wrapper #content .paging a.press
+{
+		background-color:#06F;
+		color:#FFF;
+}
+#wrapper #content .paging{
+	text-align: center;
+    padding: 30px 0;
+	
+}
