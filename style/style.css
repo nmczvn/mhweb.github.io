@@ -746,9 +746,9 @@ box-shadow:none !important;
 #wrapper footer .contact .email {
 	font-family: "Myriad Pro";
 	font-size: 24px;
-    margin-right: -128px;
-			    vertical-align: top;
-	    margin-top: -16px;
+    margin-right: -94px;
+	vertical-align: top;
+	
 
 }
 #wrapper footer .fanpage img {
@@ -756,10 +756,8 @@ box-shadow:none !important;
 }
 
 #wrapper footer .contact img {
-	    margin-left: -153px;
-    /* background-size: 30px; */
-    width: 67px;
-    height: 64px;
+	margin-left: -128px;    
+    width: 32px;    
 }
 
 .popular_game {
